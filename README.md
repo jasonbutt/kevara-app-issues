@@ -1,6 +1,6 @@
 # Kevara — Public Issue Tracker
 
-This is the public issue tracker for **[Kevara](https://kevara.app)** — a sovereign professional portfolio and Digital Embassy built natively on the [AT Protocol](https://atproto.com).
+This is the public issue tracker for **[Kevara](https://kevara.co)**, a sovereign professional portfolio and Digital Embassy built natively on the [AT Protocol](https://atproto.com).
 
 If something is broken, behaving oddly, or missing something obvious: you're in the right place. File an issue.
 
@@ -8,9 +8,9 @@ If something is broken, behaving oddly, or missing something obvious: you're in 
 
 ## What is Kevara?
 
-Kevara is a **Portable Professional Trust Portfolio** — a premium profile layer built on top of the AT Protocol's decentralised identity stack.
+Kevara is a **Portable Professional Trust Portfolio**, a premium profile layer built on top of the AT Protocol's decentralised identity stack.
 
-The short version: your professional identity lives on your own Personal Data Server (PDS), not on our infrastructure. Your resume, endorsements, portfolio, and network connections are cryptographically signed records that belong to you, portable across any AT Protocol-compatible network — [Bluesky](https://bsky.app), [Gander](https://gander.social) 🇨🇦, [EuroSky](https://euro.social) 🇪🇺, and beyond.
+The short version: your professional identity lives on your own Personal Data Server (PDS), not on our infrastructure. Your resume, endorsements, portfolio, and network connections are cryptographically signed records that belong to you, portable across any AT Protocol-compatible network: [Bluesky](https://bsky.app), [Gander](https://gander.social) 🇨🇦, [EuroSky](https://euro.social) 🇪🇺, and beyond.
 
 Kevara provides the editorial-grade display layer, verification engine, and professional graph tools. You own the data. We just make it look exceptional.
 
@@ -73,9 +73,9 @@ We don't promise a fix timeline. We're a small team and this is a beta. But we r
 
 ## What This Repo Is Not For
 
-- **Feature requests** — We have a roadmap. Feature ideas are welcome but this tracker is for bugs only right now.
-- **Support questions** — For help with setup, PDS connection, or account questions, reach out via [kevara.co](https://kevara.co) or find us on Bluesky at [@kevara.app](https://bsky.app/profile/kevara.app).
-- **Security vulnerabilities** — Please do not file security issues publicly. Email **security@kevara.co** instead. We take responsible disclosure seriously.
+- **Feature requests**, We have a roadmap. Feature ideas are welcome but this tracker is for bugs only right now.
+- **Support questions**, For help with setup, PDS connection, or account questions, reach out via [kevara.co](https://kevara.co) or find us on Bluesky at [@kevara.app](https://bsky.app/profile/kevara.app).
+- **Security vulnerabilities**, Please do not file security issues publicly. Email **security@kevara.co** instead. We take responsible disclosure seriously.
 
 ---
 

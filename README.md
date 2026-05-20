@@ -1,4 +1,4 @@
-# Kevara — Public Issue Tracker
+# Kevara - Public Issue Tracker
 
 This is the public issue tracker for **[Kevara](https://kevara.co)**, a sovereign professional portfolio and Digital Embassy built natively on the [AT Protocol](https://atproto.com).
 
@@ -35,11 +35,11 @@ Use the **[Bug Report](.github/ISSUE_TEMPLATE/bug_report.md)** template when you
 | Field | What to include |
 |---|---|
 | **Category** | UI/Visual, Data/Profile, AT Protocol/PDS, Feed/Network, Settings, or Other |
-| **Title** | Short, specific summary — "Profile banner not loading on EuroSky handles" beats "it's broken" |
+| **Title** | Short, specific summary - "Profile banner not loading on EuroSky handles" beats "it's broken" |
 | **What happened** | What you saw. Be specific about where in the app it occurred. |
 | **Steps to reproduce** | The exact sequence that triggers the bug. If we can't reproduce it, we can't fix it. |
 | **Expected outcome** | What *should* have happened. |
-| **Your handle** | Optional, but helpful if we need to look at your specific PDS state. Your AT Protocol handle only — no passwords, no app passwords, no tokens. |
+| **Your handle** | Optional, but helpful if we need to look at your specific PDS state. Your AT Protocol handle only - no passwords, no app passwords, no tokens. |
 
 > **Note:** Bug reports submitted through the in-app form (Settings → Beta & Feedback) are automatically formatted with the correct labels and land here directly.
 
@@ -49,7 +49,7 @@ Use the **[Bug Report](.github/ISSUE_TEMPLATE/bug_report.md)** template when you
 
 | Label | Meaning |
 |---|---|
-| `beta-known` | Acknowledged known issue — shown in the in-app beta panel |
+| `beta-known` | Acknowledged known issue - shown in the in-app beta panel |
 | `beta-report` | Submitted by a beta user via the in-app form |
 | `ui` | Visual or layout issue |
 | `data-profile` | Profile data, Sifa records, or PDS sync |
@@ -75,13 +75,13 @@ We don't promise a fix timeline. We're a small team and this is a beta. But we r
 
 - **Feature requests**, We have a roadmap. Feature ideas are welcome but this tracker is for bugs only right now.
 - **Support questions**, For help with setup, PDS connection, or account questions, reach out via [kevara.co](https://kevara.co) or find us on Bluesky at [@kevara.app](https://bsky.app/profile/kevara.app).
-- **Security vulnerabilities**, Please do not file security issues publicly. Email **security@kevara.co** instead. We take responsible disclosure seriously.
+- **Security vulnerabilities**, Please do not file security issues publicly. Email **security@kevara.app** instead. We take responsible disclosure seriously.
 
 ---
 
 ## A Note on Privacy
 
-Your AT Protocol handle is public information by design — it's a DID-anchored identity, not a login credential. If you include it in a bug report, it may be visible publicly in this repo.
+Your AT Protocol handle is public information by design, it's a DID-anchored identity, not a login credential. If you include it in a bug report, it may be visible publicly in this repo.
 
 **Never include:** app passwords, session tokens, PDS credentials, or any authentication material in issues. If you accidentally do, edit the issue immediately and contact us.
 
